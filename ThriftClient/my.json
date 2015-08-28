@@ -1,0 +1,21 @@
+{
+    "settings": {
+        "index": {
+            "number_of_shards": 1,
+            "number_of_replicas": 0
+        }
+    },
+    "mappings": {
+        "LogEvent": {
+            "properties": {
+                "timeStamp": {
+                    "type": "date",
+                    "format": "dateOptionalTime"
+                },
+                "message": {
+                    "type": "string"
+                }
+            }
+        }
+    }
+}

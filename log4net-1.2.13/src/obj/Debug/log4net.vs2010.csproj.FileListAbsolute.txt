@@ -1,0 +1,5 @@
+D:\WORK_SHOP\src\log4net-1.2.13\build\bin\net\2.0\debug\log4net.dll
+D:\WORK_SHOP\src\log4net-1.2.13\build\bin\net\2.0\debug\log4net.pdb
+D:\WORK_SHOP\src\log4net-1.2.13\build\bin\net\2.0\debug\log4net.xml
+D:\WORK_SHOP\src\log4net-1.2.13\src\obj\Debug\log4net.dll
+D:\WORK_SHOP\src\log4net-1.2.13\src\obj\Debug\log4net.pdb

@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>log4stash</id>
+    <version>1.0.2.1</version>
+    <title>log4stash - Elasticsearch log4net appender</title>
+    <authors>urielha</authors>
+    <owners>urielha</owners>
+    <licenseUrl>https://github.com/urielha/log4stash/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/urielha/log4stash</projectUrl>
+    <iconUrl>http://logstash.net/images/logstash.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>log4stash is a log4net appender for easy logging of exceptions and messages to Elasticsearch indices.
+      You can configure few filters to analyze log events before they got sended to Elasticsearch similar to the filters on logstash.</description>
+    <releaseNotes>* SSL support (thanks to @zhengziying)
+      * Update Grok filters from logstash</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>log logging exception elasticsearch log4net appender logstash filters</tags>
+    <dependencies>
+      <dependency id="log4net" version="2.0.3.0" />
+    </dependencies>
+  </metadata>
+</package>
